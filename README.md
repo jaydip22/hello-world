@@ -1,3 +1,3 @@
 # hello-world
 
-Hello, I am jaydip. First day at Web development course
+Hello, I am jaydip. I want to code just for the sake of it.. :)
